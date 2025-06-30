@@ -74,16 +74,16 @@ A colorful, responsive task management app built with React, Vite, and Tailwind 
 
 
 
-![Home Page](file:///tmp/Screenshot_2025-06-04_18-04-26.png)
-![Tasks Page](file:///tmp/Screenshot_2025-06-04_18-06-11.png)
-![API Demo](file:///tmp/Screenshot_2025-06-04_18-07-07.png)
+!Home Page [file:///tmp/Screenshot_2025-06-04_18-04-26.png]
+!Tasks Page [file:///tmp/Screenshot_2025-06-04_18-06-11.png]
+!API Demo[file:///tmp/Screenshot_2025-06-04_18-07-07.png]
 
 ---
 
 ## 🌍 Deployment
 
 This app is deployed at:  
-[YOUR_DEPLOYED_URL_HERE](YOUR_DEPLOYED_URL_HERE)
+[https://regal-centaur-e106a7.netlify.app/]
 
 ---
 
